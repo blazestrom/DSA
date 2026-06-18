@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/blazestrom/DSA/tree/master/0014-longest-common-prefix) |
 | [1929-concatenation-of-array](https://github.com/blazestrom/DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -41,9 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/blazestrom/DSA/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/blazestrom/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/blazestrom/DSA/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/blazestrom/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
