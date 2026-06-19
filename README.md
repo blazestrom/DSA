@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/blazestrom/DSA/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
 | [1929-concatenation-of-array](https://github.com/blazestrom/DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -38,15 +39,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/blazestrom/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/blazestrom/DSA/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/blazestrom/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/blazestrom/DSA/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
