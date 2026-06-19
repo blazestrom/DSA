@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/blazestrom/DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/blazestrom/DSA/tree/master/0169-majority-element) |
+| [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
 | [1929-concatenation-of-array](https://github.com/blazestrom/DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/blazestrom/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/blazestrom/DSA/tree/master/0242-valid-anagram) |
+| [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
 ## String
 |  |
 | ------- |
@@ -72,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/blazestrom/DSA/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
