@@ -88,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/blazestrom/DSA/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/blazestrom/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
