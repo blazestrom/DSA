@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/blazestrom/DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/blazestrom/DSA/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -100,5 +101,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/blazestrom/DSA/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/blazestrom/DSA/tree/master/0416-partition-equal-subset-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/blazestrom/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
