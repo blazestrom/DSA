@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/blazestrom/DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/blazestrom/DSA/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/blazestrom/DSA/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/blazestrom/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
 | [1929-concatenation-of-array](https://github.com/blazestrom/DSA/tree/master/1929-concatenation-of-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/blazestrom/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/blazestrom/DSA/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/blazestrom/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
