@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/blazestrom/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/blazestrom/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/blazestrom/DSA/tree/master/0242-valid-anagram) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/blazestrom/DSA/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/blazestrom/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/blazestrom/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/blazestrom/DSA/tree/master/0242-valid-anagram) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/blazestrom/DSA/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/blazestrom/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
