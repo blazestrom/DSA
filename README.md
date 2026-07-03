@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/blazestrom/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/blazestrom/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/blazestrom/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/blazestrom/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/blazestrom/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/blazestrom/DSA/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/blazestrom/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/blazestrom/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/blazestrom/DSA/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/blazestrom/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/blazestrom/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0131-palindrome-partitioning](https://github.com/blazestrom/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
