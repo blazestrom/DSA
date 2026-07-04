@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/blazestrom/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/blazestrom/DSA/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/blazestrom/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/blazestrom/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/blazestrom/DSA/tree/master/0198-house-robber) |
@@ -119,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/blazestrom/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/blazestrom/DSA/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/blazestrom/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
