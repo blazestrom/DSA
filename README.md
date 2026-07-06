@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/blazestrom/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/blazestrom/DSA/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/blazestrom/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/blazestrom/DSA/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
 | [1929-concatenation-of-array](https://github.com/blazestrom/DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/blazestrom/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/blazestrom/DSA/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/blazestrom/DSA/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
 ## String
 |  |
@@ -122,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/blazestrom/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/blazestrom/DSA/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/blazestrom/DSA/tree/master/0131-palindrome-partitioning) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/blazestrom/DSA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/blazestrom/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
