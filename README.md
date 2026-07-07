@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/blazestrom/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/blazestrom/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/blazestrom/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/blazestrom/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/blazestrom/DSA/tree/master/0169-majority-element) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/blazestrom/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/blazestrom/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/blazestrom/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/blazestrom/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/blazestrom/DSA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/blazestrom/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/blazestrom/DSA/tree/master/0198-house-robber) |
@@ -130,12 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/blazestrom/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/blazestrom/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/blazestrom/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/blazestrom/DSA/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/blazestrom/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/blazestrom/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/blazestrom/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
