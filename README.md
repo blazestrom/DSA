@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/blazestrom/DSA/tree/master/0503-next-greater-element-ii) |
 | [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/blazestrom/DSA/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/blazestrom/DSA/tree/master/0860-lemonade-change) |
 | [1929-concatenation-of-array](https://github.com/blazestrom/DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/blazestrom/DSA/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/blazestrom/DSA/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
