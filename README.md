@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/blazestrom/DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/blazestrom/DSA/tree/master/0860-lemonade-change) |
+| [1020-number-of-enclaves](https://github.com/blazestrom/DSA/tree/master/1020-number-of-enclaves) |
 | [1929-concatenation-of-array](https://github.com/blazestrom/DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -176,4 +177,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/blazestrom/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/blazestrom/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/blazestrom/DSA/tree/master/0860-lemonade-change) |
+## Depth-First Search
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/blazestrom/DSA/tree/master/1020-number-of-enclaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/blazestrom/DSA/tree/master/1020-number-of-enclaves) |
+## Union-Find
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/blazestrom/DSA/tree/master/1020-number-of-enclaves) |
+## Matrix
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/blazestrom/DSA/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
