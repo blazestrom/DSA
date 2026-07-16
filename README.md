@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/blazestrom/DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/blazestrom/DSA/tree/master/0860-lemonade-change) |
 | [1020-number-of-enclaves](https://github.com/blazestrom/DSA/tree/master/1020-number-of-enclaves) |
+| [1646-get-maximum-in-generated-array](https://github.com/blazestrom/DSA/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/blazestrom/DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/blazestrom/DSA/tree/master/0735-asteroid-collision) |
+| [1646-get-maximum-in-generated-array](https://github.com/blazestrom/DSA/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/blazestrom/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
