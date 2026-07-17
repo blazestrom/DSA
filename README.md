@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/blazestrom/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/blazestrom/DSA/tree/master/0057-insert-interval) |
+| [0130-surrounded-regions](https://github.com/blazestrom/DSA/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/blazestrom/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/blazestrom/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/blazestrom/DSA/tree/master/0213-house-robber-ii) |
@@ -182,17 +183,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/blazestrom/DSA/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/blazestrom/DSA/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/blazestrom/DSA/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/blazestrom/DSA/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/blazestrom/DSA/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/blazestrom/DSA/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/blazestrom/DSA/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/blazestrom/DSA/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
