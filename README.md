@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/blazestrom/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/blazestrom/DSA/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/blazestrom/DSA/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/blazestrom/DSA/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/blazestrom/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/blazestrom/DSA/tree/master/0198-house-robber) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/blazestrom/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/blazestrom/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/blazestrom/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/blazestrom/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/blazestrom/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/blazestrom/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/blazestrom/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/blazestrom/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/blazestrom/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/blazestrom/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/blazestrom/DSA/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
