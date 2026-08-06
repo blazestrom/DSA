@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/blazestrom/DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/blazestrom/DSA/tree/master/0860-lemonade-change) |
+| [0905-sort-array-by-parity](https://github.com/blazestrom/DSA/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/blazestrom/DSA/tree/master/0986-interval-list-intersections) |
 | [1020-number-of-enclaves](https://github.com/blazestrom/DSA/tree/master/1020-number-of-enclaves) |
 | [1122-relative-sort-array](https://github.com/blazestrom/DSA/tree/master/1122-relative-sort-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/blazestrom/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/blazestrom/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/blazestrom/DSA/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/blazestrom/DSA/tree/master/0905-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/blazestrom/DSA/tree/master/1122-relative-sort-array) |
 ## Trie
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/blazestrom/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/blazestrom/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/blazestrom/DSA/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/blazestrom/DSA/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/blazestrom/DSA/tree/master/0986-interval-list-intersections) |
 ## Divide and Conquer
 |  |
