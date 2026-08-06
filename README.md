@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/blazestrom/DSA/tree/master/0860-lemonade-change) |
 | [0986-interval-list-intersections](https://github.com/blazestrom/DSA/tree/master/0986-interval-list-intersections) |
 | [1020-number-of-enclaves](https://github.com/blazestrom/DSA/tree/master/1020-number-of-enclaves) |
+| [1122-relative-sort-array](https://github.com/blazestrom/DSA/tree/master/1122-relative-sort-array) |
 | [1646-get-maximum-in-generated-array](https://github.com/blazestrom/DSA/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/blazestrom/DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/blazestrom/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/blazestrom/DSA/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
+| [1122-relative-sort-array](https://github.com/blazestrom/DSA/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/blazestrom/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/blazestrom/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/blazestrom/DSA/tree/master/0455-assign-cookies) |
+| [1122-relative-sort-array](https://github.com/blazestrom/DSA/tree/master/1122-relative-sort-array) |
 ## Trie
 |  |
 | ------- |
@@ -226,4 +229,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/blazestrom/DSA/tree/master/0986-interval-list-intersections) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/blazestrom/DSA/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/blazestrom/DSA/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/blazestrom/DSA/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
