@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/blazestrom/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/blazestrom/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/blazestrom/DSA/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/blazestrom/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/blazestrom/DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/blazestrom/DSA/tree/master/0860-lemonade-change) |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/blazestrom/DSA/tree/master/1122-relative-sort-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/blazestrom/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
