@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/blazestrom/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/blazestrom/DSA/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/blazestrom/DSA/tree/master/0172-factorial-trailing-zeroes) |
 ## Recursion
 |  |
 | ------- |
