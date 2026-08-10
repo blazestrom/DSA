@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/blazestrom/DSA/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/blazestrom/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/blazestrom/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0241-different-ways-to-add-parentheses](https://github.com/blazestrom/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/blazestrom/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -152,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/blazestrom/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/blazestrom/DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/blazestrom/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0241-different-ways-to-add-parentheses](https://github.com/blazestrom/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/blazestrom/DSA/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/blazestrom/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,12 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/blazestrom/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/blazestrom/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/blazestrom/DSA/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/blazestrom/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/blazestrom/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/blazestrom/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/blazestrom/DSA/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/blazestrom/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -255,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/blazestrom/DSA/tree/master/0643-maximum-average-subarray-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/blazestrom/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
