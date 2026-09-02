@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/blazestrom/DSA/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/blazestrom/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/blazestrom/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
