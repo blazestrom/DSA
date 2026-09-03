@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/blazestrom/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/blazestrom/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/blazestrom/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/blazestrom/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/blazestrom/DSA/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/blazestrom/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
