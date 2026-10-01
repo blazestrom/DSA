@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/blazestrom/DSA/tree/master/1122-relative-sort-array) |
 | [1646-get-maximum-in-generated-array](https://github.com/blazestrom/DSA/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/blazestrom/DSA/tree/master/1929-concatenation-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/blazestrom/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/blazestrom/DSA/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/blazestrom/DSA/tree/master/0706-design-hashmap) |
 | [1122-relative-sort-array](https://github.com/blazestrom/DSA/tree/master/1122-relative-sort-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/blazestrom/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/blazestrom/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/blazestrom/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/blazestrom/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/blazestrom/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/blazestrom/DSA/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/blazestrom/DSA/tree/master/1020-number-of-enclaves) |
+| [2965-find-missing-and-repeated-values](https://github.com/blazestrom/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sweep Line
 |  |
 | ------- |
